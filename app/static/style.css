@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background: #eee;
+}
+
+h1 {
+    border-bottom: 2px solid #eee;
+}
+
+.flash {
+    background: #cee5F5;
+    padding: 0.5em;
+    border: 1px solid #aacbe2;
+}
+
